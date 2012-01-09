@@ -9,3 +9,6 @@ NextiveJson.xcodeproj/ma.*
 
 .DS_Store
 
+
+xcuserdata
+project.xcworkspace
